@@ -663,8 +663,8 @@ _YouCantUseItInABattleText::
 	prompt
 
 _AreYouABoyOrAreYouAGirlText::
-	text "Are you a boy?"
-	line "Or are you a girl?"
+	text "Eres un Chico,"
+	line "Chica o trans?"
 	done
 
 Text_BattleEffectActivate::

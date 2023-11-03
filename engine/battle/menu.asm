@@ -42,7 +42,7 @@ BattleMenuHeader:
 	dbw BANK(@), NULL
 
 .Text:
-	db "FIGHT@"
+	db "LUCHAR@"
 	db "<PKMN>@"
 	db "PACK@"
 	db "RUN@"
